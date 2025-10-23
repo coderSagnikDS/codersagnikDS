@@ -63,8 +63,8 @@ Covered: Data Preprocessing, ML, EDA, Feature Engineering, Visualization, Python
 ### 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sagnik-ghosh-80b596367/)
-- 💼 [Resume PDF (via GitHub)](https://github.com/ghoshsagnik)
-- 🧠 [My Projects](https://github.com/ghoshsagnik?tab=repositories)
+- 💼 [Resume PDF (via GitHub)](https://github.com/coderSagnikDS)
+- 🧠 [My Projects](https://github.com/coderSagnikDS?tab=repositories)
 
 ---
 
