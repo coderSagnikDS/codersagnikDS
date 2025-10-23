@@ -1,39 +1,23 @@
 <h1 align="center">Hi, I'm Sagnik Ghosh 👋</h1>
-<p align="center">
-  <em>Turning data into insights and code into solutions.</em><br>
-  <strong>Data Analyst | Python & SQL Developer | ML Enthusiast</strong>
-</p>
+<h3 align="center">Turning data into insights and code into solutions.<br>
+<span style="font-weight:normal;">Data Analyst | Python & SQL Developer | ML Enthusiast</span></h3>
 
----
 
 ## 🧩 About Me
 I’m a Computer Science graduate passionate about building **real-world data solutions**. I create **data pipelines, ML models, dashboards, and REST APIs** that help teams make informed decisions.  
 Currently exploring ways to **automate insights, visualize complex data, and deploy scalable ML applications**.
 
 - 🎓 B.Tech in CSE — 2023 | CGPA: 8.7  
-- 💻 Hands-on: Python, Pandas, NumPy, Scikit-learn, Flask, REST APIs  
+- 💻 Hands-on: Python, Pandas, NumPy, Scikit-learn, Flask, SQL, REST APIs  
 - 📊 Projects: Sentiment Analysis, NLP, Data Automation, Interactive Dashboards  
 - 🌱 Learning: Cloud Deployment, Advanced ML Pipelines, Data Engineering  
 
----
 
-## 🚀 Featured Projects
-### 🔹 [App Recommendation Service](https://github.com/coderSagnikDS/App-Recommendation-Service)
-- **Tech:** Python, RoBERTa, Flask, Google Play Scraper  
-- Analyzed 500+ user reviews for Android apps, achieving **90% model confidence**  
-- Built backend REST APIs & live frontend for sentiment visualization  
+## 🚀 Projects
+- App Recommendation Service <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">🔗</a>
 
-### 🔹 [Data Automation Tool](#)
-- Converted complex PDFs into structured Excel, saving **40% processing time**  
-- Automated repetitive tasks using Python & Pandas  
 
-### 🔹 [ML Pipeline Dashboard](#)
-- End-to-end ML pipeline with feature engineering, model deployment & interactive visualizations  
-- Streamlined data flow and dashboard reliability by **30%**  
 
-*(More projects: [GitHub Repositories](https://github.com/coderSagnikDS?tab=repositories))*
-
----
 
 ## 🛠️ Tech Stack
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -45,19 +29,17 @@ Currently exploring ways to **automate insights, visualize complex data, and dep
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <br><br>
 
----
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderSagnikDS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderSagnikDS&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=coderSagnikDS&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderSagnikDS&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderSagnikDS&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=coderSagnikDS&theme=radical" alt="GitHub Streak" />
+</p>
 
----
-
----
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sagnik-ghosh-80b596367/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
@@ -70,5 +52,3 @@ Currently exploring ways to **automate insights, visualize complex data, and dep
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
