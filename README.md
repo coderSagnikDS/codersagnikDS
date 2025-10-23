@@ -41,7 +41,8 @@ I'm a Computer Science graduate passionate about building real-world data soluti
 ---
 
 ### 🧠 Projects
-**🟡 <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">App-Recommendation-Service</a>** 
+
+**🟡 <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">App-Recommendation-Service</a>**  
 *RoBERTa + Flask + Google Play Scraper | Dec 2024 – Jan 2025*
 
 - Built an end-to-end app that analyzes 500+ user reviews for any Android app  
@@ -68,5 +69,5 @@ Covered: Data Preprocessing, ML, EDA, Feature Engineering, Visualization, Python
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghoshsagnik&style=flat-square" alt="ghoshsagnik" />
+  <img src="https://komarev.com/ghpvc/?username=coderSagnikDS&style=flat-square" alt="profile views" />
 </p>
