@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I'm Sagnik Ghosh 👋</h1>
-<h3 align="center">Turning data into insights and code into solutions.<br>
-<span style="font-weight:normal;">Data Analyst | Python & SQL Developer | ML Enthusiast</span></h3>
-
-
 ## 🧩 About Me
-I’m a Computer Science graduate passionate about building **real-world data solutions**. I create **data pipelines, ML models, dashboards, and REST APIs** that help teams make informed decisions.  
-Currently exploring ways to **automate insights, visualize complex data, and deploy scalable ML applications**.
 
-- 🎓 B.Tech in CSE — 2023 | CGPA: 8.7  
-- 💻 Hands-on: Python, Pandas, NumPy, Scikit-learn, Flask, SQL, REST APIs  
-- 📊 Projects: Sentiment Analysis, NLP, Data Automation, Interactive Dashboards  
-- 🌱 Learning: Cloud Deployment, Advanced ML Pipelines, Data Engineering  
+Hi! I'm Sagnik Ghosh, a Computer Science graduate passionate about transforming data into actionable insights. I specialize in building data pipelines, machine learning models, and APIs that empower teams to make data-driven decisions. With expertise in Python, SQL, and machine learning, I continuously explore innovative ways to automate workflows and deploy scalable solutions.
+
+
 
 
 ## 🚀 Projects
@@ -64,9 +56,16 @@ Currently exploring ways to **automate insights, visualize complex data, and dep
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderSagnikDS&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- 1. Top Languages by file count -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderSagnikDS&layout=compact&theme=radical&langs_count=10&size_weight=0" alt="Top Languages by file count" />
+
+  <!-- 2. GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=coderSagnikDS&theme=radical" alt="GitHub Streak" />
+
 </p>
+
+
 
 
 ## 🌐 Connect with Me
