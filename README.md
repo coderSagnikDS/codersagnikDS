@@ -39,7 +39,7 @@ Currently exploring ways to **automate insights, visualize complex data, and dep
 
 
 ## 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sagnik-ghosh-80b596367/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
