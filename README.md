@@ -32,7 +32,6 @@ Currently exploring ways to **automate insights, visualize complex data, and dep
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderSagnikDS&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderSagnikDS&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=coderSagnikDS&theme=radical" alt="GitHub Streak" />
 </p>
