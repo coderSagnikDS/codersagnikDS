@@ -47,7 +47,7 @@ Currently exploring ways to **automate insights, visualize complex data, and dep
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:sagnik.ghosh.prof28@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
