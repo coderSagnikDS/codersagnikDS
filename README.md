@@ -69,11 +69,11 @@ Graduated with a CGPA of <b>8.5/10</b>, I have expertise in <b>PYTHON, SQL, MACH
 </p>
 
 
-## 🚀 Featured Project:
-- App Recommendation Service <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">🔗</a>
- A dynamic system that leverages user preferences to suggest personalized applications, enhancing user experience and engagement.
+## 🚀 Featured Project
 
+- ### **App Recommendation Service** <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">🔗</a>
 
+  A **dynamic recommendation system** that leverages **user preferences** to suggest personalized applications, improving **user experience** and **engagement**.  
 
 
 ## 📈 GitHub Stats
