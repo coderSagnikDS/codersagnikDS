@@ -42,7 +42,7 @@ I'm a Computer Science graduate passionate about building real-world data soluti
 
 ### 🧠 Projects
 
-**🟡 [App Review Sentiment Analyzer]()**  
+**🟡 [App-Recommendation-Service](https://github.com/coderSagnikDS/App-Recommendation-Service)**  
 *RoBERTa + Flask + Google Play Scraper | Dec 2024 – Jan 2025*
 
 - Built an end-to-end app that analyzes 500+ user reviews for any Android app  
