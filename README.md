@@ -3,11 +3,6 @@
 Hi! I'm Sagnik Ghosh, a Computer Science graduate passionate about transforming data into actionable insights. I specialize in building data pipelines, machine learning models, and APIs that empower teams to make data-driven decisions. With expertise in Python, SQL, and machine learning, I continuously explore innovative ways to automate workflows and deploy scalable solutions.
 
 
-
-
-## 🚀 Projects
-- App Recommendation Service <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">🔗</a>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -52,6 +47,11 @@ Hi! I'm Sagnik Ghosh, a Computer Science graduate passionate about transforming 
   <img alt="EDA" src="https://img.shields.io/badge/EDA-4B0082?style=for-the-badge&logo=gnuplot&logoColor=white" />
   <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
+
+
+## 🚀 Projects
+- App Recommendation Service <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">🔗</a>
+
 
 
 ## 📈 GitHub Stats
