@@ -8,7 +8,7 @@
 <p align="justify" style="font-size:16px; line-height:1.6;">
 I’m <b>SAGNIK GHOSH</b>, a <b>COMPUTER SCIENCE GRADUATE</b> with a strong passion for <b>DATA ANALYSIS</b> and <b>SOFTWARE DEVELOPMENT</b>. I specialize in turning raw data into actionable insights and building scalable applications and APIs.  
 <br><br>
-Graduated with a CGPA of <b>8.5/10</b>, I have expertise in <b>PYTHON, SQL, MACHINE LEARNING, and DATA VISUALIZATION</b>, and I constantly explore ways to automate workflows and deliver efficient solutions.
+Graduated with a CGPA of <b>8.7</b>, I have expertise in <b>PYTHON, SQL and DATA VISUALIZATION</b>, and I constantly explore ways to automate workflows and deliver efficient solutions.
 </p>
 
 ---
