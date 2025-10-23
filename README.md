@@ -1,6 +1,26 @@
+<h1 align="center">Hi, I'm Sagnik Ghosh 👋</h1>
+<h3 align="center" style="font-weight:normal;">Data Analyst & Software Developer | Turning data into insights and code into solutions</h3>
+
+---
+
 ## 🧩 About Me
 
-Hi! I'm Sagnik Ghosh, a Computer Science graduate passionate about transforming data into actionable insights. I specialize in building data pipelines, machine learning models, and APIs that empower teams to make data-driven decisions. With expertise in Python, SQL, and machine learning, I continuously explore innovative ways to automate workflows and deploy scalable solutions.
+<p align="justify" style="font-size:16px; line-height:1.6;">
+I’m <b>SAGNIK GHOSH</b>, a <b>COMPUTER SCIENCE GRADUATE</b> with a strong passion for <b>DATA ANALYSIS</b> and <b>SOFTWARE DEVELOPMENT</b>. I specialize in turning raw data into actionable insights and building scalable applications and APIs.  
+<br><br>
+Graduated with a CGPA of <b>8.5/10</b>, I have expertise in <b>PYTHON, SQL, MACHINE LEARNING, and DATA VISUALIZATION</b>, and I constantly explore ways to automate workflows and deliver efficient solutions.
+</p>
+
+---
+
+## 🚀 What I Do
+
+<ul style="font-size:16px; line-height:1.6;">
+  <li>Analyze data and generate <b>INSIGHTS THROUGH VISUALIZATION AND REPORTING</b>.</li>
+  <li>Develop <b>SOFTWARE APPLICATIONS AND APIS</b> to streamline processes and integrate systems.</li>
+  <li>Implement <b>MACHINE LEARNING MODELS</b> for predictive analytics and recommendation systems.</li>
+  <li>Optimize code, deploy scalable solutions, and ensure <b>HIGH-QUALITY SOFTWARE AND DATA WORKFLOWS</b>.</li>
+</ul>
 
 
 ## 🛠️ Tech Stack
@@ -49,8 +69,10 @@ Hi! I'm Sagnik Ghosh, a Computer Science graduate passionate about transforming 
 </p>
 
 
-## 🚀 Projects
+## 🚀 Featured Project:
 - App Recommendation Service <a href="https://github.com/coderSagnikDS/App-Recommendation-Service" target="_blank">🔗</a>
+ A dynamic system that leverages user preferences to suggest personalized applications, enhancing user experience and engagement.
+
 
 
 
